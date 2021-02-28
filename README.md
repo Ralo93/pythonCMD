@@ -9,8 +9,8 @@ Very good book about switching to the command line for data science tasks: <br>
 Linux, CommandLine, Docker, Python3, Pandas, Numpy
 
 ## Illustrations <br>
-<img src="https://user-images.githubusercontent.com/78420756/109026600-33376980-76c0-11eb-9154-674b188818f3.png" width="260" height="200"> <img src="https://user-images.githubusercontent.com/78420756/109413524-31b2bd80-79ae-11eb-8086-ac63b7592757.png" width="280" height="200"> <br>
-Source: Michael Olbrich Universität Augsburg
+<img src="(https://user-images.githubusercontent.com/78420756/109422739-2fb42300-79dd-11eb-9244-38c4dfd30068.PNG" width="260" height="200"> <img src="https://user-images.githubusercontent.com/78420756/109422741-30e55000-79dd-11eb-9be4-4a5d05c630f2.PNG" width="280" height="200"> <br>
+<img src="https://user-images.githubusercontent.com/78420756/109422742-317de680-79dd-11eb-87b3-141a87463721.PNG width="260" height="300">
 
 ## Project status <br>
 Active
