@@ -1,5 +1,6 @@
 ## General info
 This is a repository of my python functions which I used on the command line for fast EDA and scrubbing. <br>
+I am currently trying myself on the [SMTX dataset](https://www.kaggle.com/motherofdata/smpd-data) from kaggle, because it has a very low usability score and my goal is to improve data quality. <br>
 I am currently working on a python script pipeline which automatically transforms csv-files until the data is clean enough to further process it with machine learning algorithms.
 
 ## Sources
