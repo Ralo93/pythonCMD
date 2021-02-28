@@ -1,6 +1,6 @@
 ## General info
 This is a repository of my python functions which I used on the command line for fast EDA and scrubbing. <br>
-I am currently working on multiple python script pipeline which automatically transforms csv-files until the data is clean enough to further process it with machine learning approaches.
+I am currently working on a python script pipeline which automatically transforms csv-files until the data is clean enough to further process it with machine learning algorithms.
 
 ## Sources
 Very good book about switching to the command line for data science tasks: <br>
